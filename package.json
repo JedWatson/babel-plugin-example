@@ -1,0 +1,7 @@
+{
+  "name": "babel-plugin-example",
+  "version": "1.0.0",
+  "dependencies": {
+    "babel-core": "^5.0.0"
+  }
+}
