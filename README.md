@@ -7,7 +7,7 @@ coworkers, he's snuck this plugin into their build system to force his tyrannica
 
 ```sh
 $ npm install babel babel-plugin-example
-$ babel --plugins babel-plugin-example script.js
+$ babel --plugins example script.js
 ```
 
 # PS.
